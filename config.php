@@ -5,8 +5,8 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Docs Starter Template',
-    'siteDescription' => 'Beautiful docs powered by Jigsaw',
+    'siteName' => 'Docs Tània Marcos',
+    'siteDescription' => 'Docs Tània Marcos ASIX2',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => env('DOCSEARCH_KEY'),
